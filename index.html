@@ -23,7 +23,7 @@
  			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIscSvUkunDrsQQPNqM80DHPfLcMWbbeGus_4z8sW-2pNMhSjgw" width="140" title="water" class="img-thumbnail" />
  			<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdoDyKHqXd46TsC-l5_aXKkd9WLTxsxWPqWcNdiXFNnId3Ft1K" width="140" title="ground" class="img-thumbnail" />
 			
-			{{helloWorld}}
+			<img ng-repeat="item in pokemon" ng-src="{{ item.url }}" title="{{ item.title }}" width="140" class="img-thumbnail" />
 			
 			 <!-- breaking point for regular pokemon -->
 			
