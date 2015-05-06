@@ -7,6 +7,10 @@ module.controller('PokemonController', function($scope) {
 		{
 			url: 'http://fc06.deviantart.net/fs70/i/2010/291/0/1/pokemon_type_chart_by_benjamoid-d30zwry.png',
 			title: 'Chart'
+		},
+		{
+			url: 'http://ts1.mm.bing.net/th?id=JN.zEV%2bakvqqM%2fCaB67QNVjUg&amp;pid=15.1',
+			title: 'Psychic'
 		}
 	];
 });
