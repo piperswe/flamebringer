@@ -9,7 +9,7 @@ module.controller('PokemonController', function($scope) {
 		{
 			url: 'http://pad3.whstatic.com/images/d/d7/Pokemon-Weaknesses-Chart.png',
 			title: 'Chart',
-			width: standardWidth*2
+			width: '100%'
 		},
 		// pokemon
 		{
