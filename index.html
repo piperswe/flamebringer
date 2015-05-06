@@ -15,7 +15,8 @@
 		</div>
 		<div class="container" ng-controller="PokemonController">
 			
-			<img ng-repeat="item in pokemon" ng-src="{{ item.url }}" title="{{ item.title }}" width="280" class="img-thumbnail" />
+			   <!-- Curly braces and variable e.g. {{ variableName }} -->
+			<img ng-repeat="item in pokemon" ng-src="{{ item.url }}" title="{{ item.title }}" width="{{ item.width }}" class="img-thumbnail" />
 			
 			<script src="//cdn.jsdelivr.net/angular.all/1.3.0-beta.14/angular-all.min.js"></script>
 			<script src="pokemon.js"></script>
