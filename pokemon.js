@@ -7,7 +7,7 @@ module.controller('PokemonController', function($scope) {
 	$scope.pokemon = [
 		// chart
 		{
-			url: 'http://fc06.deviantart.net/fs70/i/2010/291/0/1/pokemon_type_chart_by_benjamoid-d30zwry.png',
+			url: 'http://pad3.whstatic.com/images/d/d7/Pokemon-Weaknesses-Chart.png',
 			title: 'Chart',
 			width: standardWidth*2
 		},
