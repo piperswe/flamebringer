@@ -19,7 +19,7 @@ module.controller('PokemonController', function($scope) {
 			title: 'Fire'
 		},
 		{
-			url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIscSvUkunDrsQQPNqM80DHPfLcMWbbeGus_4z8sW-2pNMhSjgw"',
+			url: 'http://cdn.bulbagarden.net/upload/f/f1/382Kyogre-Primal.png',
 			title: 'Water'
 		},
 		{
