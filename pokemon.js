@@ -26,6 +26,14 @@ module.controller('PokemonController', function($scope) {
 			url: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdoDyKHqXd46TsC-l5_aXKkd9WLTxsxWPqWcNdiXFNnId3Ft1K',
 			title: 'Ground'
 		},
+		{
+			url: 'http://img.pokemondb.net/artwork/yveltal.jpg',
+			title: 'Dark'
+		},
+		{
+			url: 'http://pokemonlegends.informe.com/gallery/130-1/celebi.png',
+			title: 'Grass'
+		},
 		// breaking point for regular pokemon
 		{
 			url: 'flareasect.png',
