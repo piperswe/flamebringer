@@ -23,6 +23,11 @@ module.controller('PokemonController', function($scope) {
 			width: standardWidth
 		},
 		{
+			url: 'https://s-media-cache-ak0.pinimg.com/236x/75/c6/88/75c6882b8bc390ae412df9d0fc83074b.jpg',
+			title: 'eletrict',
+			width: standardWidth
+		}
+		{
 			url: 'http://cdn.bulbagarden.net/upload/f/f1/382Kyogre-Primal.png',
 			title: 'Water',
 			width: standardWidth
@@ -48,5 +53,6 @@ module.controller('PokemonController', function($scope) {
 			title: 'Flareasect',
 			width: standardWidth
 		}
+		
 	];
 });
