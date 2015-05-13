@@ -7,7 +7,7 @@ module.controller('PokemonController', function($scope) {
 	$scope.pokemon = [
 		// chart
 		{
-			url: 'http://pad3.whstatic.com/images/d/d7/Pokemon-Weaknesses-Chart.png',
+			url: 'http://pwo-wiki.info/images/3/36/Typechart.png',
 			title: 'Chart',
 			width: '100%'
 		},
