@@ -56,17 +56,17 @@ module.controller('PokemonController', function($scope) {
 		//rwby stuff!!!
 		{
 			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
-			title: 'RWBY',
+			title: 'Rwby',
 			width: standardWidth
 		},
 		{
 			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
-			title: 'RWBY',
+			title: 'Rwby and scythe',
 			width: standardWidth
 		},
 		{
-			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
-			title: 'RWBY',
+			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcSjSwXzCVLAjdJ_wr69zZD--InhNtCtQ8HXzg1FxTLcAZ8LyIoF:img.youtube.com/vi/Gu0Spg39i7U/mqdefault.jpg',
+			title: 'Rwby\'s scythe',
 			width: standardWidth
 		}
 	];
