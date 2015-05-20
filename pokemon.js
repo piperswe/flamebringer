@@ -52,7 +52,22 @@ module.controller('PokemonController', function($scope) {
 			url: 'flareasect.png',
 			title: 'Flareasect',
 			width: standardWidth
+		},
+		//rwby stuff!!!
+		{
+			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
+			title: 'RWBY',
+			width: standardWidth
+		},
+		{
+			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
+			title: 'RWBY',
+			width: standardWidth
+		},
+		{
+			url: 'http://t1.gstatic.com/images?q=tbn:ANd9GcR6mAqtfOHRl97YewHK4PlcISZnAjiWmNyBjrA4l3mMfa0NOsBa:img1.wikia.nocookie.net/__cb20130314092622/rwbyfanon/images/5/5b/Red_Ruby.png',
+			title: 'RWBY',
+			width: standardWidth
 		}
-		
 	];
 });
